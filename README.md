@@ -7,7 +7,7 @@ This project showcases my skills, projects, and creativity as a developer.
 
 ## 🚀 Live Demo
 
-🔗 
+🔗 https://monali-portfolio.vercel.app/
 
 ---
 
